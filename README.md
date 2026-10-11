@@ -5,7 +5,7 @@ Hardware & Prototyping Setup:
 <p align="center">
 <img width="525" height="430" alt="Resim1" src="https://github.com/user-attachments/assets/95b78084-bde4-4285-a140-2d36f470e00d" />
 
-<br><br>
+<br>
 
 Real-Time System Testing & Data Acquisition:
 <p align="center">
